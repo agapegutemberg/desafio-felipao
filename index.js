@@ -1,3 +1,3 @@
-let nickName = "Ágape"
+let nome = "Ágape"
 
-console.log("Olá " + nickName)
+console.log("Olá " + nome)
