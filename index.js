@@ -1,3 +1,2 @@
-let nome = "Ágape"
-
-console.log("Olá " + nome)
+// Nomes dos personagens
+let personagem = ["Poochyena", "Zigzagoon", "Dragonite", "Bubassaur", "Pikachu", "Charmander", "Wurmple"]
